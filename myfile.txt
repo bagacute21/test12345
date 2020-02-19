@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Test File 1
 
 
 
 Test 2
+=======
+>>>>>>> parent of d4af300... Add line for myfile.txt
 =======
 >>>>>>> parent of d4af300... Add line for myfile.txt
